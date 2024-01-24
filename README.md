@@ -1,7 +1,5 @@
 # GPTOS for Android Phone
 
-GPTOS is an advanced voice assistant app that offers powerful features such as summarizing, rewriting, reading, and auto-responder for emails, using advanced artificial general intelligence (AGI) technology.
-
 
 https://github.com/friuns2/GPTOS/assets/16543239/f5d044bc-e97e-4a6a-aff8-abbff33ffddb
 
