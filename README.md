@@ -1,5 +1,5 @@
 # GPTOS for Android Phone
-https://play.google.com/store/apps/details?id=gptos.intelligence.assistant
+https://play.google.com/apps/testing/gptos.intelligence.assistant
 
 https://github.com/friuns2/GPTOS/assets/16543239/f5d044bc-e97e-4a6a-aff8-abbff33ffddb
 
