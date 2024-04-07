@@ -14,6 +14,12 @@ We have a comprehensive tutorial video available to help you get started with GP
 
 [Watch GPTOS Tutorial Video](https://youtu.be/hpSWEkyLDZc)
 
+## Issues
+
+If you encounter any bugs, glitches, or have suggestions for improvements, please report them to us on GitHub Issues. Your feedback is valuable and helps us enhance the GPTOS experience for everyone.
+
+[Report Issues on GitHub](https://github.com/friuns2/GPTOS/issues)
+
 ## Contact Information
 
 If you have any questions, feedback, or need direct assistance, you can reach out to us via email:
