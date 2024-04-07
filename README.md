@@ -1,4 +1,4 @@
-# GPTOS for Android Phone
+# GPTOS for Android Phone and IOS
 https://play.google.com/apps/testing/gptos.intelligence.assistant
 
 https://github.com/friuns2/GPTOS/assets/16543239/f5d044bc-e97e-4a6a-aff8-abbff33ffddb
